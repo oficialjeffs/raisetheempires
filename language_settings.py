@@ -4,6 +4,6 @@ import os
 
 
 def language_strings():
-    tree = ET.parse(os.path.join(install_path(), "assets/29oct2012/en_US.xml"))
+    tree = ET.parse(os.path.join(install_path(), "assets/29oct2012/pt_BR.xml"))
     root = tree.getroot()
     return {text.attrib["key"]: text[0].text for pkg in root for text in pkg}
