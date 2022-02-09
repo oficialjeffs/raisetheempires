@@ -2,7 +2,7 @@
 
 > Empires and Allies(Facebook) officially closed June 17th, 2013
 
-O projeto de preservação Old Empires & Allies pela equipe Raise the Empires. 
+O projeto de preservação do antigo Empires & Allies pela equipe Raise the Empires. 
 Este projeto é dedicado a preservar este jogo em Flash para que não se perca no tempo.
 
 [![version](https://img.shields.io/badge/version-0.08a--preview1-blue)](#)
